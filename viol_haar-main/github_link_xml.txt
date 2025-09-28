@@ -1,0 +1,1 @@
+https://github.com/dpettine/pets-recognition/blob/master/dog-cascade_40x40_rev2.xml
